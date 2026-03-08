@@ -1,0 +1,5 @@
+{
+  "name": "LSE Portfolio Tracker",
+  "description": "Real-time UTC clock and portfolio progress tracker with live LSE screen OCR.",
+  "requestFramePermissions": ["display-capture"]
+}
